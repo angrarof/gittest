@@ -1,1 +1,2 @@
 New log text
+Added a new line
